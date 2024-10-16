@@ -1,0 +1,11 @@
+{
+  "$schema": "https://unpkg.com/@camunda/zeebe-element-templates-json-schema/resources/schema.json",
+  "name": "MyConnector",
+  "id": "13da24e8-f849-4211-a654-d10e106e04c8",
+  "version": 1729063680412,
+  "description": "",
+  "appliesTo": [
+    "bpmn:Task"
+  ],
+  "properties": []
+}
